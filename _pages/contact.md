@@ -4,7 +4,8 @@ title: "Get in Touch"
 author_profile: true
 ---
 
-Feel free to reach out for collaborations, discussions, or just a chat!
+I’m happy to connect for collaborations, discussions, or just a chat.
+Please fill out the form below.
 
 <div class="contact-box">
   
