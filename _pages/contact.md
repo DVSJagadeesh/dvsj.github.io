@@ -1,10 +1,10 @@
 ---
 permalink: /contact/
-title: "Contact Me"
+title: "Get in Touch"
 author_profile: true
 ---
 
-Feel free to reach out for collaborations, discussions on AI safety, or just a chat!
+Feel free to reach out for collaborations, discussions, or just a chat!
 
 <div class="contact-box">
   

@@ -17,4 +17,4 @@ Alongside my technical work, I value clear communication and structured thinking
 
 I’m always interested in discussions and collaborations around LLM interpretability, safety, factuality, evaluation, and real world AI reliability!
 
-[Feel free to reach out via the contact form.](_pages/contact.md)
+[Feel free to reach out via the contact form.](/_pages/contact.md)
