@@ -27,6 +27,9 @@ main:
     
   - title: "CV"
     url: /files/dvsjj-cv.pdf
+  
+  - title: "Contact"
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/

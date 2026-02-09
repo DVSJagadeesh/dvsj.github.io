@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Get in Touch"
+title: "Contact Me"
 author_profile: true
 ---
 
