@@ -33,14 +33,6 @@ Machine Learning Engineer working on Large Language Models, with a focus on inte
     * Worked on building an internal Retail & Wealth Banking (RW) Tool enabling admins to approve subscriber requests and operations teams to fetch reports, built using React and Spring Boot.
     * Designed and integrated PostgreSQL database schemas to support efficient data retrieval.
 
-## Leadership & Experience
-* **Toastmasters International**
-  * **Area G3 Director** (July 2024 - June 2025)
-    * Served five corporate clubs with ~130 professionals and leaders across the industry.
-    * Achieved 100% club retention, and Select Distinguished Status.
-  * Organized Feb 2024 Leadership Conclave with a team of four, over the course of three months, securing a keynote address and two executive-led panel discussions in a corporate venue. (2023-24)
-  * Revitalized an underperforming club through targeted strategic planning. (2023-24)
-
 ## Publications & Projects
 * [**Weaving Stories: using LLMs to generate historical narratives**](files/Weaving_Stories_FinalReport.pdf) (Feb 2025 - July 2025)
   * *Engineered a Beyond-Vanilla RAG system using a custom Knowledge Graph (NetworkX/GML) and Hybrid Semantic Search (FAISS) to enable multi-hop reasoning over historical narratives.*
@@ -56,6 +48,15 @@ Machine Learning Engineer working on Large Language Models, with a focus on inte
   * *Identified AES with RSA as the optimal multilayer encryption strategy for medical images, delivering the best decryption speed while guaranteeing Confidentiality, Integrity, and Authentication (CIA).*
 
 *(For a detailed view of my work, please visit my [Publications]({{ base_path }}/publications/) page.)*
+
+## Leadership & Experience
+* **Toastmasters International**
+  * **Area G3 Director** (July 2024 - June 2025)
+    * Served five corporate clubs with ~130 professionals and leaders across the industry.
+    * Achieved 100% club retention, and Select Distinguished Status.
+  * Organized Feb 2024 Leadership Conclave with a team of four, over the course of three months, securing a keynote address and two executive-led panel discussions in a corporate venue. (2023-24)
+  * Revitalized an underperforming club through targeted strategic planning. (2023-24)
+
 
 <br>
 <hr>
