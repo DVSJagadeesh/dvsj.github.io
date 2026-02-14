@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+A list of the main pages currently active on the site. For search engine robots, an [XML version]({{ base_path }}/sitemap.xml) is available.
+
+## Main Pages
+* [About Me (Home)]({{ base_path }}/)
+* [Curriculum Vitae]({{ base_path }}/cv/)
+* [Projects & Publications]({{ base_path }}/projects/)
+* [Get in Touch]({{ base_path }}/contact/)
+<!-- 
+{% include base_path %}
+
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>Pages</h2>
@@ -34,4 +44,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
